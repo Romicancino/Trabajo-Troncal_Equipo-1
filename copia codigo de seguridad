@@ -32,7 +32,7 @@
     .nav-divider { width: 1px; height: 18px; background: var(--border); }
     .nav-section {
       font-family: var(--sans);
-      font-size: 12px;
+      font-size: 18px;
       letter-spacing: 0.1em;
       text-transform: uppercase;
       color: var(--mid);
@@ -79,14 +79,14 @@
     }
     .byline {
       font-family: var(--sans);
-      font-size: 13px;
+      font-size: 18px;
       color: var(--mid);
       margin-bottom: 20px;
     }
     .byline strong { color: var(--dark); }
 
     p {
-      font-size: 17px;
+      font-size: 18px;
       line-height: 1.75;
       margin-bottom: 18px;
       font-weight: 400;
@@ -159,14 +159,14 @@
   <li>Conocimiento y Sabiduría: <p class="byline">El interactivo entrega "know-how" al usuario, permitiéndole prever y planificar su experiencia. La visualización trasciende la mera descripción para convertirse en una herramienta de toma de decisiones.</li>
 </ul>
 </p>
-      <p>Análisis Técnico (Ley 19.628)
+      <p> Análisis Técnico 
 <p class="byline">Desde una perspectiva ética y técnica, el sistema opera mediante la captura de datos personales de geolocalización.
-Tratamiento de Datos: <p class="byline">Bajo el marco de la Ley 19.628 (sobre protección de la vida privada), la ubicación exacta es un dato que identifica al individuo.
-Dilema Ético: <p class="byline">Aunque el fin es proveer un servicio (el "Dato Útil"), la recolección de coordenadas plantea la necesidad de transparencia: ¿Cómo se anonimiza estos datos tras la consulta? El diseño de información aquí debe equilibrar la personalización extrema con el resguardo de la privacidad del usuario.
+ <li>  <strong>Tratamiento de Datos:</strong> <p class="byline">Bajo el marco de la Ley 19.628 (sobre protección de la vida privada), la ubicación exacta es un dato que identifica al individuo.
+<li>  <strong>Dilema Ético:</strong> <p class="byline">Aunque el fin es proveer un servicio (el "Dato Útil"), la recolección de coordenadas plantea la necesidad de transparencia: ¿Cómo se anonimiza estos datos tras la consulta? El diseño de información aquí debe equilibrar la personalización extrema con el resguardo de la privacidad del usuario.
 </p>
       <p>Legado y Referencia Comparativa
-<p class="byline">El legado de esta pieza es la consolidación del "Scrollytelling Geográfico", un modo de visualizar donde el usuario "navega" a través de los datos mediante el desplazamiento de la página.
-Lógica Visual: <p class="byline">El uso de un "fregadero" de tiempo (time-scrubber) y mapas que reaccionan a la posición del usuario se ha vuelto el estándar para eventos en tiempo real.
+<p class="byline">El legado de esta pieza es la consolidación del <strong>"Scrollytelling Geográfico"</strong>, un modo de visualizar donde el usuario  <strong>"navega" </strong> a través de los datos mediante el desplazamiento de la página.
+ <p <strong>Lógica Visual: </strong> <p class="byline">El uso de un "fregadero" de tiempo (time-scrubber) y mapas que reaccionan a la posición del usuario se ha vuelto el estándar para eventos en tiempo real.
 Caso Contemporáneo: Un ejemplo actual que utiliza esta misma lógica visual es el "Visor de Incendios Forestales" (CONAF) o los monitores de calidad del aire en tiempo real. Al igual que en el eclipse, la validez de la información en estos sistemas no es absoluta, sino que depende totalmente de la proximidad y el contexto geográfico de quien consulta.
 </p>
     </article>
