@@ -563,10 +563,14 @@ Finalmente, esta estrategia se materializa a través del diseño. Meirelles (201
     </div>
       
   <section>
-  <figure>
-    <iframe src="https://drive.google.com/file/d/1GyA7cmF2on39gwh6FNprE5lJCObJV7Qi/preview" width="100%" height="500" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
-    <figcaption><strong>Figura 1.</strong> Representación estructural de la asimetría informativa impuesta por el gobierno. Nótese la radical desproporción entre la fracción visible sobre la línea de flotación y la inmensa masa de datos ocultos bajo el nivel de escrutinio público. Esta visualización ilustra cómo la omisión deliberada de información opera como una tecnología de control político y opresión social.</figcaption>
-  </figure>
+ <figure>
+  <img 
+    src="https://i.imgur.com/QQcMFZS.jpeg" 
+    alt="Diagrama iceberg asimetría informativa"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 4px;"
+  />
+  <figcaption><strong>Figura 1.</strong> Representación estructural de la asimetría informativa impuesta por el gobierno. Nótese la radical desproporción entre la fracción visible sobre la línea de flotación y la inmensa masa de datos ocultos bajo el nivel de escrutinio público. Esta visualización ilustra cómo la omisión deliberada de información opera como una tecnología de control político y opresión social.</figcaption>
+</figure>
 </section>
 
   <!-- ── RESULTADOS ──────────────────────────────────────────── -->
@@ -581,7 +585,7 @@ Finalmente, esta estrategia se materializa a través del diseño. Meirelles (201
 
       <p><strong>3.2. El diseño visual como dispositivo retórico del miedo:</strong> Se comprobó una transgresión deliberada a los estándares de integridad visual (Meirelles, 2014; Cairo, 2020). El uso de gráficos que aislaban el déficit a corto plazo, sumado a una estética de emergencia (saturación de rojos y tipografías de alarma), transformó la representación visual en un recurso puramente retórico (Tufte, 2020). Esta saturación bloqueó la transición lógica hacia el conocimiento (modelo DIKW), sustituyendo el análisis racional de la ciudadanía por un estado de pánico inducido.</p>
 
-      <p><strong>3.3. Consecuencias materiales: El déficit como arma de coacción:</strong> Los hallazgos revelan que el objetivo último de esta "poda de la verdad" fue operar como un mecanismo profiláctico contra las demandas sociales. Al instalar visualmente la premisa absolutista de la escasez, se logró:</p>
+      <p><strong>3.3. Consecuencias materiales:</strong> Los hallazgos revelan que el objetivo último de esta "poda de la verdad" fue operar como un mecanismo profiláctico contra las demandas sociales. Al instalar visualmente la premisa absolutista de la escasez, se logró:</p>
 
       <ul>
         <li>Justificar de manera anticipada e incuestionable la aplicación de recortes estructurales.</li>
@@ -595,7 +599,6 @@ Finalmente, esta estrategia se materializa a través del diseño. Meirelles (201
         <thead>
           <tr>
             <th>Régimen icónico</th>
-            <th>N (corpus)</th>
             <th>Tipo de falsedad</th>
             <th>Intención</th>
             <th>Mecanismo de <em>Bildakt</em></th>
@@ -603,39 +606,35 @@ Finalmente, esta estrategia se materializa a través del diseño. Meirelles (201
         </thead>
         <tbody>
           <tr>
-            <td>I · Error morfológico</td>
-            <td>24</td>
-            <td><em>Misinformation</em></td>
-            <td>No dolosa</td>
+            <td>I · La manufactura de la crisis mediante "datos faltantes"</td>
+            <td><em>Suppressio Veri</em></td>
+            <td>Desestabilización Cognitiva</td>
             <td>Acto esquemático</td>
           </tr>
-          <tr>
+           <tr>
             <td>II · Manipulación semántica</td>
-            <td>41</td>
-            <td><em>Disinformation</em></td>
-            <td>Dolosa</td>
-            <td>Acto sustitutivo</td>
-          </tr>
+            <td><em>Suppressio Veri</em></td>
+            <td>Desestabilización Cognitiva</td>
+            <td>Acto esquemático</td>
+           </tr>
           <tr>
-            <td>III · Fabricación sintética</td>
-            <td>19</td>
-            <td><em>Disinformation</em></td>
-            <td>Dolosa</td>
-            <td>Acto intrínseco</td>
+            <td>III · Déficit como arma de coacción</td>
+            <td><em>Suppressio Veri</em></td>
+            <td>Desestabilización Cognitiva</td>
+            <td>Acto esquemático</td>
           </tr>
         </tbody>
       </table>
       <p class="table-caption"><strong>Tabla 1.</strong> Distribución del corpus según régimen icónico de falsedad, tipo de falsedad en la taxonomía de Wardle y Derakhshan (2017), intencionalidad del agente productor y mecanismo de <em>Bildakt</em> predominante según Bredekamp (2010).</p>
     </div>
 
-    <h2>4.2 Texto que falta </h2>
+    <h2>4. Caso de ejemplo</h2>
     <div class="body-text">
       <p>Un hallazgo transversal al corpus es que la credibilidad atribuida a las imágenes falsas no se correlaciona con su grado de manipulación técnica, sino con la coherencia entre el <em>medium</em> que las aloja y las expectativas de autenticidad del receptor —lo que Belting (2001) denomina el «contrato icónico» implícito en cada soporte. Las imágenes del Régimen II, morfológicamente intactas pero semánticamente falsas, generaron tasas de creencia inicialmente más elevadas (media del 67 % de los receptores encuestados en estudios de terceros) que las del Régimen III, pese a que estas últimas representan falsedades más radicales.</p>
     </div>
 
     <figure>
-      <div class="fig-placeholder">[ Figura 2 · Evolución temporal de los tres regímenes en el corpus (2016–2024) ]</div>
-      <figcaption><strong>Figura 2.</strong> Distribución temporal de los tres regímenes icónicos de falsedad en el corpus. Nótese el crecimiento exponencial del Régimen III a partir de 2022, coincidente con la masificación de los modelos de generación de imagen por difusión.</figcaption>
+      <div class="https://media-front.elmostrador.cl/2026/03/WhatsApp-Image-2026-03-25-at-8.44.58-AM-1.jpeg"></div>
     </figure>
   </section>
 
