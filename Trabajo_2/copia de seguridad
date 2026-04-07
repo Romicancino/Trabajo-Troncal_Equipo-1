@@ -482,16 +482,15 @@
     <div style="margin-top:1.2rem;">
       <p class="authors-label">Palabras clave</p>
       <div class="keywords">
-        <span class="keyword">Bildwissenschaft</span>
+        <span class="keyword">Gobierno de Chile 2026</span>
         <span class="keyword">Desinformación</span>
         <span class="keyword">Misinformation</span>
         <span class="keyword">Imagen técnica</span>
-        <span class="keyword">Bildakt</span>
         <span class="keyword">Iconología crítica</span>
         <span class="keyword">Cultura visual digital</span>
         <span class="keyword">Falsedad icónica</span>
-        <span class="keyword">W.J.T. Mitchell</span>
-        <span class="keyword">Hans Belting</span>
+        <span class="keyword">Legitimidad informativa</span>
+        <span class="keyword">Política y miedo</span>
       </div>
     </div>
   </section>
@@ -505,18 +504,14 @@
 
   <!-- ── MARCO TEÓRICO ───────────────────────────────────────── -->
   <section>
-    <p class="section-label">2 · Marco Teórico</p>
+    <p class="section-label">2 · Marco Metodológico/Teórico</p>
 
-    <h2>2.1 La <em>Bildwissenschaft</em> como ciencia de los actos de imagen</h2>
+    <h2>1. La importancia de la legitimidad de los datos</h2>
     <div class="body-text">
-      <p>El concepto de <em>Bildakt</em>, desarrollado sistemáticamente por Horst Bredekamp en su obra homónima de 2010 (Bredekamp, 2010), designa la capacidad de las imágenes para producir efectos en el mundo: no meramente representar, sino actuar. Bredekamp distingue tres modalidades del <em>Bildakt</em>: el acto esquemático (la imagen que moldea el pensamiento), el acto sustitutivo (la imagen que ocupa el lugar de su referente) y el acto intrínseco (la imagen que genera sus propios efectos sin mediación discursiva). Esta tipología resulta especialmente pertinente para el análisis de la imagen falsa, pues cada modalidad activa mecanismos distintos de credibilidad y engaño.</p>
-      <p>Por su parte, Hans Belting propone en <em>Bild-Anthropologie</em> (2001) una distinción fundamental entre imagen (<em>Bild</em>), medio (<em>Medium</em>) y cuerpo (<em>Körper</em>) (Belting, 2001). Las imágenes no existen autónomamente: se encarnan en medios específicos y son recibidas por cuerpos dotados de memorias, afectos y expectativas culturalmente formadas. Esta tríada permite comprender por qué una misma imagen falsa puede ser creída o rechazada según el soporte que la aloja y la disposición corporal del receptor.</p>
-    </div>
-
-    <h2>2.2 Taxonomía técnica de la falsedad informativa</h2>
-    <div class="body-text">
-      <p>La distinción entre <em>information</em>, <em>misinformation</em> y <em>disinformation</em> tiene una historia relativamente breve en la investigación académica sistemática. Claire Wardle y Hossein Derakhshan (2017) propusieron una tipología tripartita que ha devenido en referencia canónica: la <em>información errónea</em> (<em>misinformation</em>) designa contenidos falsos difundidos sin intención de causar daño; la <em>desinformación</em> (<em>disinformation</em>) implica la creación y difusión consciente y dolosa de falsedades; y la <em>malinformación</em> (<em>malinformation</em>) alude a contenidos verídicos empleados con la intención de causar daño. El criterio organizador de esta taxonomía es, en los tres casos, la intencionalidad del agente.</p>
-      <p>Este criterio intencionalista, aunque operativo para el análisis de agentes humanos, resulta insuficiente cuando las imágenes adquieren una circulación autónoma en las redes —cuando actúan, en términos de Bredekamp, con independencia de las intenciones de su creador original. Proponemos, por tanto, complementar el eje intencional con un eje ontológico centrado en la naturaleza de la falsedad icónica misma.</p>
+      <p>El abordaje de este fenómeno exige revisar cómo los datos adquieren validez. Tradicionalmente, la gestión de información se explica bajo el modelo DIKW (Data-Information-Knowledge-Wisdom), donde los datos puros se filtran hasta convertirse en "sabiduría". Sin embargo, Frické (2009) critica severamente la debilidad lógica de esta pirámide, postulando que el conocimiento no es un residuo que emerge al "limpiar" el dato; por el contrario, la selección del dato inicial ya está cargada de una intención. Cuando un gobierno muestra exclusivamente un segmento de la contabilidad omitiendo los miles de millones disponibles, construye una "sabiduría" artificial.
+A esta problemática estructural se suma la dimensión del diseño y la representación visual. Las mejores prácticas para la visualización eficaz de información, como las estudiadas por Meirelles (2014), exigen rigor para no distorsionar la realidad de los fenómenos que se proyectan. En esta línea, Cairo (2020) advierte que un gráfico que altera o esconde el contexto necesario para interpretar un dato no está informando, sino que está mintiendo mediante su estructura.
+Finalmente, bajo el enfoque del Feminismo de Datos de D'Ignazio y Klein (2023), es imperativo "examinar el poder" y evidenciar los datos faltantes. Al reducir la economía a la dicotomía binaria de "hay plata / no hay plata", se invisibiliza el costo humano y las comunidades vulnerables, convirtiendo la omisión del dato en una tecnología de opresión.
+</p>
     </div>
   </section>
 
@@ -524,30 +519,25 @@
   <section>
     <p class="section-label">3 · Materiales y Métodos</p>
 
-    <h2>3.1 Corpus y criterios de selección</h2>
+    <h2>2. Métodos </h2>
     <div class="body-text">
-      <p>El corpus de análisis comprende 84 imágenes virales circuladas en plataformas digitales entre enero de 2016 y diciembre de 2024, identificadas y verificadas mediante las bases de datos de los organismos de <em>fact-checking</em> Snopes, Correctiv y Maldita.es. Los criterios de inclusión exigieron: (a) verificación documentada de falsedad total o parcial; (b) alcance mínimo de 50.000 interacciones en al menos una plataforma; y (c) disponibilidad de metadatos sobre el origen y la trayectoria de circulación.</p>
-      <p>Las imágenes fueron clasificadas preliminarmente según el criterio de intencionalidad de Wardle y Derakhshan (2017) y, en una segunda etapa, según una tipología icónica desarrollada expresamente para este estudio a partir de los instrumentos de la <em>Bildwissenschaft</em>.</p>
+      <p>Mediante un análisis cualitativo y crítico del discurso visual, se contrastó la narrativa oficial ("caja en cero") de inicios de marzo de 2026 con la realidad técnica revelada el 31 de marzo de 2026, que ratificó un saldo real de US$3.600 millones.</p>
     </div>
-
-    <h2>3.2 Procedimiento hermenéutico</h2>
-    <div class="body-text">
-      <p>Cada imagen fue sometida a un análisis en tres niveles: (1) análisis morfológico, orientado a identificar las marcas técnicas de manipulación o fabricación; (2) análisis semántico-contextual, dirigido a reconstruir el régimen de verdad al que la imagen apelaba en su contexto de circulación; y (3) análisis pragmático-performativo, centrado en los efectos documentados de la imagen sobre sus receptores. Este procedimiento sigue la lógica del método iconológico propuesto por Panofsky (1955) pero incorpora la dimensión afectiva y activa enfatizada por la <em>Bildwissenschaft</em> contemporánea.</p>
-    </div>
-
-    <figure>
-      <div class="fig-placeholder">[ Figura 1 · Modelo triaxial de análisis de la imagen falsa ]</div>
-      <figcaption><strong>Figura 1.</strong> Modelo triaxial propuesto para el análisis de imágenes falsas: el eje intencional (misinformation / disinformation), el eje ontológico (error morfológico / manipulación semántica / fabricación sintética) y el eje performativo (efectos de credibilidad, afecto y acción en los receptores).</figcaption>
-    </figure>
-  </section>
+      
+  <section>
+  <figure>
+    <iframe src="https://drive.google.com/file/d/1GyA7cmF2on39gwh6FNprE5lJCObJV7Qi/preview" width="100%" height="500" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
+    <figcaption><strong>Figura 2.</strong> Distribución temporal de los tres regímenes icónicos de falsedad en el corpus. Nótese el crecimiento exponencial del Régimen III a partir de 2022, coincidente con la masificación de los modelos de generación de imagen por difusión.</figcaption>
+  </figure>
+</section>
 
   <!-- ── RESULTADOS ──────────────────────────────────────────── -->
   <section>
     <p class="section-label">4 · Resultados</p>
 
-    <h2>4.1 Tres regímenes icónicos de falsedad</h2>
+    <h2>3. Resultados de la investigación </h2>
     <div class="body-text">
-      <p>El análisis del corpus permitió identificar tres regímenes icónicos de falsedad cualitativamente distintos, irreductibles entre sí y con dinámicas de propagación diferenciadas. El <strong>Régimen I</strong> (<em>error morfológico no intencional</em>) agrupa imágenes cuya falsedad se origina en limitaciones técnicas del dispositivo de captura, en errores de datación o en procesos de descontextualización durante la circulación viral. En el 78 % de los casos de este régimen, la falsedad se produce en la cadena de difusión, no en el acto de producción original. Este régimen corresponde, en términos estrictos, a la <em>misinformation</em> sin dolo.</p>
+      <p>Los hallazgos evidencian que la declaración de "quiebra" es una estrategia de desinformación basada en la omisión sistemática de variables. Esta "limpieza" visual de los datos, que reduce la economía a un gráfico en rojo, no busca educar, sino que constituye una poda deliberada de la verdad. Se instrumentaliza el miedo colectivo para aplicar recortes drásticos al presupuesto social y contener demandas ciudadanas.</p>
       <p>El <strong>Régimen II</strong> (<em>manipulación semántica deliberada</em>) comprende imágenes morfológicamente auténticas —no alteradas a nivel de píxeles— cuyo significado ha sido intervenido mediante la modificación del contexto enunciativo: pie de foto alterado, fecha falsa, geolocalización incorrecta o inscripción en una narrativa que invierte el sentido original. Este régimen es el más frecuente en el corpus (41 de 84 casos) y el que genera mayor confusión en los receptores, precisamente porque la apelación a la autenticidad morfológica de la imagen funciona como aval de la falsedad semántica. Aquí operan con mayor eficacia los mecanismos del <em>Bildakt</em> sustitutivo descritos por Bredekamp.</p>
       <p>El <strong>Régimen III</strong> (<em>fabricación sintética</em>) engloba imágenes generadas mediante inteligencia artificial, fotomontaje elaborado o síntesis deepfake que producen referentes inexistentes. Aunque estadísticamente menos frecuente en el corpus histórico (19 casos), su incidencia se acelera notablemente a partir de 2022, con la masificación de los modelos de difusión generativa.</p>
     </div>
@@ -621,22 +611,15 @@
     </div>
   </section>
 
-  <!-- ── REFERENCIAS ─────────────────────────────────────────── -->
+  <!-- ── REFERENCIAS Bibliográficas ─────────────────────────────────────────── -->
   <section>
-    <p class="section-label">Referencias</p>
+    <p class="section-label">Referencias utilizadas</p>
     <ul class="references-list">
-      <li>Belting, H. (2001). <em>Bild-Anthropologie: Entwürfe für eine Bildwissenschaft</em>. Wilhelm Fink Verlag.</li>
-      <li>Boehm, G. (1994). Die Wiederkehr der Bilder. En G. Boehm (Ed.), <em>Was ist ein Bild?</em> (pp. 11–38). Wilhelm Fink Verlag.</li>
-      <li>Boehm, G., &amp; Mitchell, W. J. T. (2009). Pictorial versus iconic turn: Two letters. <em>Culture, Theory and Critique</em>, <em>50</em>(2–3), 103–121. https://doi.org/10.1080/14735780903240075</li>
-      <li>Bredekamp, H. (2010). <em>Theorie des Bildakts</em>. Suhrkamp Verlag.</li>
-      <li>Flusser, V. (1983). <em>Für eine Philosophie der Fotografie</em>. European Photography.</li>
-      <li>Lazer, D. M., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., Metzger, M. J., Nyhan, B., Pennycook, G., Rothschild, D., Schudson, M., Sloman, S. A., Sunstein, C. R., Thorson, E. A., Watts, D. J., &amp; Zittrain, J. L. (2018). The science of fake news. <em>Science</em>, <em>359</em>(6380), 1094–1096. https://doi.org/10.1126/science.aao2998</li>
-      <li>Mitchell, W. J. T. (2005). <em>What do pictures want? The lives and loves of images</em>. University of Chicago Press.</li>
-      <li>Panofsky, E. (1955). <em>Meaning in the visual arts</em>. Doubleday Anchor Books.</li>
-      <li>Pfaller, R. (2002). <em>Die Illusionen der anderen: Über das Lustprinzip in der Kultur</em>. Suhrkamp Verlag.</li>
-      <li>Sacasas, L. M. (2020). The virtue of informational humility. <em>The Convivial Society</em>, <em>2</em>(7). https://theconvivialsociety.substack.com</li>
-      <li>Wardle, C. (2017). Fake news. It's complicated. <em>First Draft</em>. https://firstdraftnews.org/articles/fake-news-complicated/</li>
-      <li>Wardle, C., &amp; Derakhshan, H. (2017). <em>Information disorder: Toward an interdisciplinary framework for research and policymaking</em> (Informe DGI(2017)09). Council of Europe. https://rm.coe.int/information-disorder-report-november-2017/1680764666</li>
+      <li>Cairo, A. (2020) <em> How charts lie: Getting smarter about visual information. W. W. Norton & Company. </em></li>
+      <li>D'Ignazio, C., & Klein, L. (2023). <em>Data feminism: Capítulos 4: "Lo que se cuenta, cuenta". MIT Press.</em></li>
+      <li>Frické, M. (2009). <em>The knowledge pyramid: A critique of the DIKW hierarchy. Journal of Information Science, 35(2), 131-159.</em>. Suhrkamp Verlag.</li>
+      <li>La Cuarta. (2026, 31 de marzo). <em>¿Hay o no hay plata? Nuevo informe revela que Boric dejó caja de US$3.600 millones y oposición se lo enrostra al gobierno. La Cuarta.</em>.</li>
+      <li>Meirelles, I. (2014). <em>La información en el diseño: Introducción a las historias, las teorías y las mejores prácticas para la visualización eficaz de información. Parramon.</em> </li>
     </ul>
   </section>
 
