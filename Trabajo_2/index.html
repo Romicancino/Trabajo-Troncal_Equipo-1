@@ -264,25 +264,6 @@
       margin: 2rem 0;
       text-align: center;
     }
-    .fig-placeholder {
-      width: 100%;
-      height: 220px;
-      background: repeating-linear-gradient(
-        45deg,
-        var(--rule) 0px,
-        var(--rule) 1px,
-        transparent 1px,
-        transparent 10px
-      );
-      border: 1px solid var(--rule);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: var(--ink-faint);
-      font-family: var(--mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.1em;
-    }
     figcaption {
       font-size: 0.82rem;
       color: var(--ink-faint);
@@ -296,34 +277,6 @@
       font-size: 0.7rem;
       letter-spacing: 0.05em;
       color: var(--ink-light);
-    }
-
-    /* ── TABLE ───────────────────────────────────────────────── */
-    .table-wrapper { overflow-x: auto; margin: 1.5rem 0; }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.88rem;
-    }
-    thead tr {
-      border-bottom: 2px solid var(--ink);
-    }
-    thead th {
-      font-family: var(--mono);
-      font-size: 0.65rem;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-      color: var(--ink-light);
-      padding: 0.6rem 0.8rem;
-      text-align: left;
-    }
-    tbody tr { border-bottom: 1px solid var(--rule); }
-    tbody td { padding: 0.6rem 0.8rem; color: var(--ink); }
-    .table-caption {
-      font-size: 0.82rem;
-      color: var(--ink-faint);
-      font-style: italic;
-      margin-top: 0.5rem;
     }
 
     /* ── REFERENCES ──────────────────────────────────────────── */
@@ -419,7 +372,6 @@
 </head>
 <body>
 
-<!-- MASTHEAD -->
 <header class="masthead">
   <div class="masthead-inner">
     <div class="journal-name">Revista de Diseño y Visualización de Información</div>
@@ -427,10 +379,8 @@
   </div>
 </header>
 
-<!-- MAIN -->
 <main class="container">
 
-  <!-- ── ENCABEZADO DEL ARTÍCULO ─────────────────────────────── -->
   <section class="article-header">
 
     <div class="article-type">Artículo de Investigación Original</div>
@@ -439,7 +389,6 @@
 
     <p class="subtitle">Hacia una iconología crítica de la falsedad: regímenes de verdad, imagen técnica y propagación del engaño deliberado en entornos digitales. Un artículo de ejemplo generado con inteligencia artificial</p>
 
-    <!-- AUTHORS -->
     <div class="authors-block">
       <p class="authors-label">Autoría</p>
       <ul class="authors-list">
@@ -450,15 +399,13 @@
       </ul>
 
       <div class="affiliations">
-        <p><span class="aff-num">1</span>Estudiante de Pregrado Diseño,Universidad de Chile, Santiago, Chile</p>
-        <p><span class="aff-num">2</span>Estudiante de Pregrado Diseño,Universidad de Chile, Santiago, Chile</p>
-        <p><span class="aff-num">3</span>Estudiante de Pregrado Diseño,Universidad de Chile, Santiago, Chile</p>
-        <p><span class="aff-num">4</span>Estudiante de Pregrado Diseño,Universidad de Chile, Santiago, Chile</p>
-
+        <p><span class="aff-num">1</span>Estudiante de Pregrado Diseño, Universidad de Chile, Santiago, Chile</p>
+        <p><span class="aff-num">2</span>Estudiante de Pregrado Diseño, Universidad de Chile, Santiago, Chile</p>
+        <p><span class="aff-num">3</span>Estudiante de Pregrado Diseño, Universidad de Chile, Santiago, Chile</p>
+        <p><span class="aff-num">4</span>Estudiante de Pregrado Diseño, Universidad de Chile, Santiago, Chile</p>
       </div>
     </div>
 
-    <!-- META -->
     <div class="meta-row">
       <div class="meta-item">Recibido&nbsp;<span>10 de marzo, 2026</span></div>
       <div class="meta-item">Aceptado&nbsp;<span>31 de marzo, 2026</span></div>
@@ -468,7 +415,6 @@
 
   </section>
 
-  <!-- ── RESUMEN ─────────────────────────────────────────────── -->
   <section>
     <p class="section-label">Resumen</p>
     <div class="abstract-box">
@@ -498,138 +444,56 @@
   <section>
     <p class="section-label">1 · Introducción</p>
     <div class="body-text">
-      <p>El inicio del ciclo político en marzo de 2026 quedó marcado por la premisa comunicacional de que el Estado se encuentra en "quiebra" y "la caja fiscal está vacía". Esta afirmación se estructura como una narrativa que utiliza la visualización del déficit como una herramienta de control emocional y político. Al presentar balances contables descontextualizados, se suprime la complejidad macroeconómica, reduciendo la administración estatal a una simple libreta de ahorros. La falsedad de este relato de escasez absoluta quedó expuesta cuando un informe técnico reveló la existencia de una caja de US$3.600 millones dejada por la administración saliente. Esta discrepancia revela que el relato de la caja vacía es un recurso retórico fabricado , consolidando un método de control basado en la opacidad informativa.</p>
+      <p>El inicio del ciclo político en marzo de 2026 quedó marcado por la premisa comunicacional de que el Estado se encuentra en "quiebra" y "la caja fiscal está vacía". Esta afirmación se estructura como una narrativa que utiliza la visualización del déficit como una herramienta de control emocional y político. Al presentar balances contables descontextualizados, se suprime la complejidad macroeconómica, reduciendo la administración estatal a una simple libreta de ahorros. La falsedad de este relato de escasez absoluta quedó expuesta cuando un informe técnico reveló la existencia de una caja de US$3.600 millones dejada por la administración saliente. Esta discrepancia revela que el relato de la caja vacía es un recurso retórico fabricado, consolidando un método de control basado en la opacidad informativa.</p>
     </div>
   </section>
 
-  <!-- ── MARCO TEÓRICO ───────────────────────────────────────── -->
   <section>
-    <p class="section-label">2 · Marco Metodológico/Teórico</p>
-
-    <h2>1. La importancia de la legitimidad de los datos</h2>
+    <p class="section-label">2 · Marco Teórico</p>
     <div class="body-text">
-      <p>El abordaje de este fenómeno exige revisar cómo los datos adquieren validez. Tradicionalmente, la gestión de información se explica bajo el modelo DIKW (Data-Information-Knowledge-Wisdom), donde los datos puros se filtran hasta convertirse en "sabiduría". Sin embargo, Frické (2009) critica severamente la debilidad lógica de esta pirámide, postulando que el conocimiento no es un residuo que emerge al "limpiar" el dato; por el contrario, la selección del dato inicial ya está cargada de una intención. Cuando un gobierno muestra exclusivamente un segmento de la contabilidad omitiendo los miles de millones disponibles, construye una "sabiduría" artificial.
-A esta problemática estructural se suma la dimensión del diseño y la representación visual. Las mejores prácticas para la visualización eficaz de información, como las estudiadas por Meirelles (2014), exigen rigor para no distorsionar la realidad de los fenómenos que se proyectan. En esta línea, Cairo (2020) advierte que un gráfico que altera o esconde el contexto necesario para interpretar un dato no está informando, sino que está mintiendo mediante su estructura.
-Finalmente, bajo el enfoque del Feminismo de Datos de D'Ignazio y Klein (2023), es imperativo "examinar el poder" y evidenciar los datos faltantes. Al reducir la economía a la dicotomía binaria de "hay plata / no hay plata", se invisibiliza el costo humano y las comunidades vulnerables, convirtiendo la omisión del dato en una tecnología de opresión.
-</p>
+      <p>El abordaje de este fenómeno exige revisar cómo los datos adquieren validez. Tradicionalmente, la gestión de información se explica bajo el modelo DIKW (Data-Information-Knowledge-Wisdom), donde los datos puros se filtran hasta convertirse en "sabiduría". Sin embargo, Frické (2009) critica severamente la debilidad lógica de esta pirámide, postulando que el conocimiento no es un residuo que emerge al "limpiar" el dato; por el contrario, la selección del dato inicial ya está cargada de una intención. Cuando un gobierno muestra exclusivamente un segmento de la contabilidad omitiendo los miles de millones disponibles, construye una "sabiduría" artificial.</p>
+      <p>A esta problemática estructural se suma la dimensión del diseño y la representación visual. Las mejores prácticas para la visualización eficaz de información, como las estudiadas por Meirelles (2014), exigen rigor para no distorsionar la realidad de los fenómenos que se proyectan. En esta línea, Cairo (2020) advierte que un gráfico que altera o esconde el contexto necesario para interpretar un dato no está informando, sino que está mintiendo mediante su estructura.</p>
+      <p>Finalmente, bajo el enfoque del Feminismo de Datos de D'Ignazio y Klein (2023), es imperativo "examinar el poder" y evidenciar los datos faltantes. Al reducir la economía a la dicotomía binaria de "hay plata / no hay plata", se invisibiliza el costo humano y las comunidades vulnerables, convirtiendo la omisión del dato en una tecnología de opresión.</p>
     </div>
   </section>
 
-  <!-- ── MATERIALES Y MÉTODOS ────────────────────────────────── -->
   <section>
-    <p class="section-label">3 · Materiales y Métodos</p>
-
-    <h2>2. Métodos </h2>
+    <p class="section-label">3 · Métodos y Resultados</p>
     <div class="body-text">
       <p>Mediante un análisis cualitativo y crítico del discurso visual, se contrastó la narrativa oficial ("caja en cero") de inicios de marzo de 2026 con la realidad técnica revelada el 31 de marzo de 2026, que ratificó un saldo real de US$3.600 millones.</p>
-    </div>
-      
-  <section>
-  <figure>
-    <iframe src="https://drive.google.com/file/d/1GyA7cmF2on39gwh6FNprE5lJCObJV7Qi/preview" width="100%" height="500" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
-    <figcaption><strong>Figura 2.</strong> Distribución temporal de los tres regímenes icónicos de falsedad en el corpus. Nótese el crecimiento exponencial del Régimen III a partir de 2022, coincidente con la masificación de los modelos de generación de imagen por difusión.</figcaption>
-  </figure>
-</section>
-
-  <!-- ── RESULTADOS ──────────────────────────────────────────── -->
-  <section>
-    <p class="section-label">4 · Resultados</p>
-
-    <h2>3. Resultados de la investigación </h2>
-    <div class="body-text">
       <p>Los hallazgos evidencian que la declaración de "quiebra" es una estrategia de desinformación basada en la omisión sistemática de variables. Esta "limpieza" visual de los datos, que reduce la economía a un gráfico en rojo, no busca educar, sino que constituye una poda deliberada de la verdad. Se instrumentaliza el miedo colectivo para aplicar recortes drásticos al presupuesto social y contener demandas ciudadanas.</p>
-      <p>El <strong>Régimen II</strong> (<em>manipulación semántica deliberada</em>) comprende imágenes morfológicamente auténticas —no alteradas a nivel de píxeles— cuyo significado ha sido intervenido mediante la modificación del contexto enunciativo: pie de foto alterado, fecha falsa, geolocalización incorrecta o inscripción en una narrativa que invierte el sentido original. Este régimen es el más frecuente en el corpus (41 de 84 casos) y el que genera mayor confusión en los receptores, precisamente porque la apelación a la autenticidad morfológica de la imagen funciona como aval de la falsedad semántica. Aquí operan con mayor eficacia los mecanismos del <em>Bildakt</em> sustitutivo descritos por Bredekamp.</p>
-      <p>El <strong>Régimen III</strong> (<em>fabricación sintética</em>) engloba imágenes generadas mediante inteligencia artificial, fotomontaje elaborado o síntesis deepfake que producen referentes inexistentes. Aunque estadísticamente menos frecuente en el corpus histórico (19 casos), su incidencia se acelera notablemente a partir de 2022, con la masificación de los modelos de difusión generativa.</p>
     </div>
-
-    <div class="table-wrapper">
-      <table>
-        <thead>
-          <tr>
-            <th>Régimen icónico</th>
-            <th>N (corpus)</th>
-            <th>Tipo de falsedad</th>
-            <th>Intención</th>
-            <th>Mecanismo de <em>Bildakt</em></th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>I · Error morfológico</td>
-            <td>24</td>
-            <td><em>Misinformation</em></td>
-            <td>No dolosa</td>
-            <td>Acto esquemático</td>
-          </tr>
-          <tr>
-            <td>II · Manipulación semántica</td>
-            <td>41</td>
-            <td><em>Disinformation</em></td>
-            <td>Dolosa</td>
-            <td>Acto sustitutivo</td>
-          </tr>
-          <tr>
-            <td>III · Fabricación sintética</td>
-            <td>19</td>
-            <td><em>Disinformation</em></td>
-            <td>Dolosa</td>
-            <td>Acto intrínseco</td>
-          </tr>
-        </tbody>
-      </table>
-      <p class="table-caption"><strong>Tabla 1.</strong> Distribución del corpus según régimen icónico de falsedad, tipo de falsedad en la taxonomía de Wardle y Derakhshan (2017), intencionalidad del agente productor y mecanismo de <em>Bildakt</em> predominante según Bredekamp (2010).</p>
-    </div>
-
-    <h2>4.2 La credibilidad como efecto de la imagen técnica</h2>
-    <div class="body-text">
-      <p>Un hallazgo transversal al corpus es que la credibilidad atribuida a las imágenes falsas no se correlaciona con su grado de manipulación técnica, sino con la coherencia entre el <em>medium</em> que las aloja y las expectativas de autenticidad del receptor —lo que Belting (2001) denomina el «contrato icónico» implícito en cada soporte. Las imágenes del Régimen II, morfológicamente intactas pero semánticamente falsas, generaron tasas de creencia inicialmente más elevadas (media del 67 % de los receptores encuestados en estudios de terceros) que las del Régimen III, pese a que estas últimas representan falsedades más radicales.</p>
-    </div>
-
+    
     <figure>
-      <div class="fig-placeholder">[ Figura 2 · Evolución temporal de los tres regímenes en el corpus (2016–2024) ]</div>
-      <figcaption><strong>Figura 2.</strong> Distribución temporal de los tres regímenes icónicos de falsedad en el corpus. Nótese el crecimiento exponencial del Régimen III a partir de 2022, coincidente con la masificación de los modelos de generación de imagen por difusión.</figcaption>
+      <iframe src="https://drive.google.com/file/d/1GyA7cmF2on39gwh6FNprE5lJCObJV7Qi/preview" width="100%" height="500" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
+      <figcaption><strong>Figura 1.</strong> Documento de apoyo visualizando las capas y métodos de desinformación analizados en el discurso.</figcaption>
     </figure>
   </section>
 
-  <!-- ── DISCUSIÓN ────────────────────────────────────────────── -->
   <section>
-    <p class="section-label">5 · Discusión</p>
+    <p class="section-label">4 · Conclusión</p>
     <div class="body-text">
-      <p>Los resultados del análisis del corpus confirman la hipótesis central del estudio: la distinción entre <em>misinformation</em> y <em>disinformation</em> no puede reducirse al criterio intencionalista sin perder de vista la especificidad ontológica de las imágenes. El Régimen II —la manipulación semántica deliberada— representa el caso paradigmático en que la imagen técnica es instrumentalizada como <em>arma epistémica</em>: su fuerza persuasiva deriva precisamente de la autenticidad morfológica que el receptor le atribuye, independientemente de su falsedad contextual. En este sentido, la distinción de Flusser (1983) entre imagen técnica e imagen tradicional adquiere una dimensión crítica que el propio autor no anticipó plenamente: la imagen técnica no solo «parece» más real que la imagen manual —es ontológicamente percibida como índice de la realidad, lo que la convierte en el vehículo privilegiado del engaño deliberado.</p>
-      <p>El concepto de <em>Bildakt</em> intrínseco resulta especialmente iluminador para el Régimen III. Las imágenes sintéticas generadas por modelos de difusión generativa no engañan porque imiten bien la realidad —engañan porque activan en el receptor los mismos mecanismos de credibilidad que las imágenes fotográficas auténticas, independientemente de que no tengan referente real alguno. Aquí la mentira no es una propiedad del enunciado sino un efecto del acto icónico en sí mismo: la imagen produce la creencia en su propia verdad.</p>
-      <p>Una limitación relevante del presente estudio reside en la dependencia de corpus externos de <em>fact-checking</em>, lo que introduce sesgos de selección hacia imágenes ya identificadas como falsas. Las imágenes cuya falsedad nunca fue detectada —presumiblemente las más eficaces— permanecen invisibles al análisis. Investigaciones futuras deberían explorar metodologías de muestreo que permitan capturar este punto ciego.</p>
+      <p>La información económica, instrumentalizada políticamente, se convierte en un dispositivo de control social. Al aislar los pasivos y suprimir deliberadamente los activos, se consolida una estética visual alarmista que explota el sesgo cognitivo humano hacia las amenazas. Contrarrestar este método de control exige rechazar las simplificaciones absolutas y demandar representaciones informativas que asuman la complejidad real de la administración pública, desenmascarando el uso del déficit como un arma de coacción.</p>
     </div>
   </section>
 
-  <!-- ── CONCLUSIONES ────────────────────────────────────────── -->
   <section>
-    <p class="section-label">6 · Conclusiones</p>
-    <div class="body-text">
-      <p>Este artículo ha argumentado que la <em>Bildwissenschaft</em> alemana ofrece herramientas conceptuales irreemplazables para una teoría crítica de la imagen falsa. La distinción técnica entre información, <em>misinformation</em> y <em>disinformation</em> —articulada hasta ahora sobre criterios intencionales y proposicionales— debe ser completada con un análisis de la ontología icónica de la falsedad: qué tipo de imagen falsa es, qué régimen de verdad activa, qué acto (<em>Bildakt</em>) ejecuta sobre el receptor.</p>
-      <p>Los tres regímenes icónicos identificados —error morfológico no intencional, manipulación semántica deliberada y fabricación sintética— no son solo categorías descriptivas: implican dinámicas de propagación distintas, vulnerabilidades específicas de los receptores y, por tanto, estrategias de alfabetización visual diferenciadas. Una política pública de lucha contra la desinformación que ignore la especificidad icónica de las imágenes falsas intervendrá, en el mejor de los casos, sobre síntomas, nunca sobre las causas.</p>
-      <p>El diálogo entre la tradición germanista de la Ciencia de la Imagen y las ciencias de la comunicación anglófonas que han liderado la investigación sobre <em>misinformation</em> es, en suma, no solo posible sino urgente. La imagen que miente no miente como lo hace un enunciado: miente porque actúa, porque sustituye, porque fabrica presencia. Y comprender esa diferencia es, quizás, la tarea más importante que la teoría de la imagen tiene hoy ante sí.</p>
-    </div>
-  </section>
-
-  <!-- ── REFERENCIAS Bibliográficas ─────────────────────────────────────────── -->
-  <section>
-    <p class="section-label">Referencias utilizadas</p>
+    <p class="section-label">Referencias Bibliográficas</p>
     <ul class="references-list">
-      <li>Cairo, A. (2020) <em> How charts lie: Getting smarter about visual information. W. W. Norton & Company. </em></li>
-      <li>D'Ignazio, C., & Klein, L. (2023). <em>Data feminism: Capítulos 4: "Lo que se cuenta, cuenta". MIT Press.</em></li>
-      <li>Frické, M. (2009). <em>The knowledge pyramid: A critique of the DIKW hierarchy. Journal of Information Science, 35(2), 131-159.</em>. Suhrkamp Verlag.</li>
-      <li>La Cuarta. (2026, 31 de marzo). <em>¿Hay o no hay plata? Nuevo informe revela que Boric dejó caja de US$3.600 millones y oposición se lo enrostra al gobierno. La Cuarta.</em>.</li>
-      <li>Meirelles, I. (2014). <em>La información en el diseño: Introducción a las historias, las teorías y las mejores prácticas para la visualización eficaz de información. Parramon.</em> </li>
+      <li>Cairo, A. (2020). <em>How charts lie: Getting smarter about visual information.</em> W. W. Norton & Company.</li>
+      <li>D'Ignazio, C., & Klein, L. (2023). <em>Data feminism: Capítulos 4: "Lo que se cuenta, cuenta".</em> MIT Press.</li>
+      <li>Frické, M. (2009). <em>The knowledge pyramid: A critique of the DIKW hierarchy.</em> Journal of Information Science, 35(2), 131-159.</li>
+      <li>La Cuarta. (2026, 31 de marzo). <em>¿Hay o no hay plata? Nuevo informe revela que Boric dejó caja de US$3.600 millones y oposición se lo enrostra al gobierno.</em> La Cuarta.</li>
+      <li>Meirelles, I. (2014). <em>La información en el diseño: Introducción a las historias, las teorías y las mejores prácticas para la visualización eficaz de información.</em> Parramon.</li>
     </ul>
   </section>
 
-  <!-- ── DECLARACIONES ───────────────────────────────────────── -->
   <section>
     <p class="section-label">Declaraciones</p>
 
     <div class="correspondence">
       <strong>Correspondencia</strong>
-      Jorge González · Institut für Kunstgeschichte und Bildwissenschaft, Goethe-Universität Frankfurt am Main, Norbert-Wollheim-Platz 1, 60629 Frankfurt am Main, Alemania · <a href="mailto:j.gonzalez@bildwiss.uni-frankfurt.de">j.gonzalez@bildwiss.uni-frankfurt.de</a>
+      Equipo 1 · Estudiantes de Diseño, Universidad de Chile, Santiago, Chile
     </div>
 
     <div class="disclosure" style="margin-top:1.5rem;">
@@ -639,10 +503,9 @@ Finalmente, bajo el enfoque del Feminismo de Datos de D'Ignazio y Klein (2023), 
 
 </main>
 
-<!-- FOOTER -->
 <footer>
   <div class="container">
-    <p>TÍTULO DE SU ARTÍCULO © 2026 de González et al. es publicado bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+    <p>LA PROPAGACIÓN DE LA MENTIRA © 2026 de Equipo 1 es publicado bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
   </div>
 </footer>
 
